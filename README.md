@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bogarakash
-- 👀 I’m interested in python
+- 👋 Hi, I’m @Bogarakash,Backend developer @ Emproto technologies pvt ltd.
+- 👀 I’m interested in python and node js
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on python project developments
+- 💞️ I’m looking to collaborate on python and node js projects
 - 📫 How to reach me bogarakash45@gmail.com
 
 
