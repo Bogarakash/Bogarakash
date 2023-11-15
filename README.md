@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Akash Bogar,Backend developer @ Emproto technologies pvt ltd.
+- 👋 Hi, I’m Akash Bogar
+- 🖥️ Backend developer.
 - 👀 I’m interested in python and node js
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on python and node js projects
